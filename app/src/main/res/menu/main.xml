@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_wallet"
+        android:icon="@drawable/ic_wallets"
+        android:title="@string/lbl_wallet"/>
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_discover"-->
+<!--        android:icon="@drawable/ic_discover"-->
+<!--        android:title="@string/lbl_discover"/>-->
+
+    <item
+        android:id="@+id/navigation_dapp"
+        android:icon="@drawable/ic_dapp"
+        android:title="@string/lbl_dapp"/>
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/lbl_setting"/>
+
+</menu>

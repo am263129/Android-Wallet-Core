@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mufasa/AndroidStudioProjects/TrustWalletClone/app/src/main/res/layout/activity_splash.xml" value="0.15092592592592594" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/bg_rounded_gray.xml" value="0.1165" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/bg_rounded_primary.xml" value="0.123" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/bg_rounded_white.xml" value="0.1165" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/bg_rounded_white_tiny.xml" value="0.1365" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/bg_top_rounded_white.xml" value="0.1165" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/border.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_back.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_backspace.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_buy_black.xml" value="0.123" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_circle.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_circle_check.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_circle_fill.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_close.xml" value="0.1365" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_notification.xml" value="0.1165" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_right.xml" value="0.166" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/ic_share.xml" value="0.123" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/rounded_border.xml" value="0.1305" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/rounded_border_black.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/rounded_header_primary.xml" value="0.1" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/drawable/selector_check_box.xml" value="0.117" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/font/.xml" value="0.396875" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_backup.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_browser.xml" value="0.22" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_legal.xml" value="0.1" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_main.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_password.xml" value="0.17831813576494426" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_phrase.xml" value="0.17831813576494426" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_receive_token.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_security.xml" value="0.22" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_wallet_create.xml" value="0.2798913043478261" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/activity_wallet_import.xml" value="0.14709569577935647" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_alert.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_buy.xml" value="0.11366485582950271" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_legal.xml" value="0.12273550724637682" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_loading.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_my_full.xml" value="0.12273550724637682" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_notification.xml" value="0.1314596554850408" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_receive.xml" value="0.11366485582950271" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_receive_token_select.xml" value="0.3009833262077811" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_send.xml" value="0.2" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_send_token.xml" value="0.228921124206709" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_send_token_select.xml" value="0.3009833262077811" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_set_amount.xml" value="0.14709569577935647" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dialog_swap.xml" value="0.22" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/dlg_legal.xml" value="0.22" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_backup_phrase.xml" value="0.33" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_dapp.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_discover.xml" value="0.14709569577935647" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_import_address.xml" value="0.22" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_import_json.xml" value="0.33" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_import_phrase.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_import_privatekey.xml" value="0.14709569577935647" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_import_wallet.xml" value="0.14709569577935647" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_import_wallet_select.xml" value="0.14709569577935647" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_nfts.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_secret_phrase.xml" value="0.33" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_stake.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_stake_token.xml" value="0.33" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_token.xml" value="0.22" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_token_list.xml" value="0.1314596554850408" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_tokens.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_tokens_setting.xml" value="0.1314596554850408" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_verify_phrase.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/fragment_wallet.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/item_dapp.xml" value="0.14709569577935647" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/item_receive_token.xml" value="0.33" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/item_seed.xml" value="0.33" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/item_seed_verify.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/item_token.xml" value="0.20126926563916592" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/item_token_setting.xml" value="0.33" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/progress.xml" value="0.12273550724637682" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/slider_1.xml" value="0.18" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/slider_2.xml" value="0.1574074074074074" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/slider_3.xml" value="0.1574074074074074" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/slider_4.xml" value="0.1574074074074074" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/toolbar.xml" value="0.1314596554850408" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/toolbar_rounded.xml" value="0.228921124206709" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/toolbar_search.xml" value="0.25" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/toolbar_search_rounded.xml" value="0.228921124206709" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/layout/toolbar_standard.xml" value="0.18" />
+        <entry key="..\:/neway/TrustWalletClone/app/src/main/res/menu/main.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
